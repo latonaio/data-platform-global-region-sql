@@ -9,9 +9,9 @@ https://api.xxx.com/api/API_XXXXX_XXX/overview
 data-platform-global-region-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
 * data-platform-global-region-sql-global-region-data.sql（データ連携基盤 グローバル地域 - グローバル地域データ）
-* data-platform-global-region-sql-global-region-data.sql（データ連携基盤 グローバル地域 - グローバル地域データ 設定）
+* data-platform-global-region-sql-global-region-data-setup.sql（データ連携基盤 グローバル地域 - グローバル地域データの設定）
 * data-platform-global-region-sql-global-region-text-data.sql（データ連携基盤 グローバル地域 - グローバル地域テキストデータ）
-* data-platform-global-region-sql-global-region-text-data.sql（データ連携基盤 グローバル地域 - グローバル地域テキストデータ 設定）
+* data-platform-global-region-sql-global-region-text-data-setup.sql（データ連携基盤 グローバル地域 - グローバル地域テキストデータの設定）
 
 ## 設定値
 
